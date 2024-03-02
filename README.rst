@@ -21,7 +21,7 @@ So, grab your aprons, sharpen your minds, and let's get cooking! With code in ha
 
 Check out the :doc:`Cookbook` section for the full course module!
  
-For software requirements and installation instructions, enter the :ref:`Pantry`.
+For software requirements and installation instructions, enter the :ref:`Cookware`.
  
 Follow the aroma trail of our various datasets in the :doc:`Spice Rack`.
 
