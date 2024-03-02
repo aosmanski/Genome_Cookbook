@@ -1,6 +1,11 @@
 Welcome to Genome Cookbook!
 ===================================
 
+
+[![Documentation Status](https://readthedocs.org/projects/actg-wgaa/badge/?version=latest)](https://actg-wgaa.readthedocs.io/en/latest/?badge=latest)
+
+
+
 Welcome, budding bioinformatic chefs, to the flavorful world of Genome Cookbook!
 
 Prepare to don your lab aprons and sharpen your computational knives as we embark on a tantalizing journey through the intricate realms of genomics. No need for fancy culinary equipment here, just the power of your trusty laptop as we whip up some genomic delights!
