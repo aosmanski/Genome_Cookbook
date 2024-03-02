@@ -1,8 +1,11 @@
-Cookware:
-OATK 
-https://github.com/c-zhou/oatk
+Software requirements and installation information.
+===============================
+
+`OATK <https://github.com/c-zhou/oatk>`_ 
+-------------------------------
 Download, unpack, make
-Add in the angio database files to this dir
+
+
 
 Also needs HMMER 
 http://hmmer.org/
