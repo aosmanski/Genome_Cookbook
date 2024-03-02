@@ -2,8 +2,7 @@ Welcome to Genome Cookbook!
 ===================================
 
 
-[![Documentation Status](https://readthedocs.org/projects/actg-wgaa/badge/?version=latest)](https://actg-wgaa.readthedocs.io/en/latest/?badge=latest)
-
+[![Documentation Status](https://readthedocs.org/projects/genome-cookbook-randolf-v10/badge/?version=latest)](https://genome-cookbook-randolf-v10.readthedocs.io/en/latest/?badge=latest)
 
 
 Welcome, budding bioinformatic chefs, to the flavorful world of Genome Cookbook!
