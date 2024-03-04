@@ -17,7 +17,6 @@ So, grab your aprons, sharpen your minds, and let's get cooking! With code in ha
 
 
 
-
 Check out the :doc:`Cookbook` section for the full course module!
  
 For software requirements and installation instructions, enter the :ref:`Cookware`.
