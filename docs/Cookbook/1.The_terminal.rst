@@ -31,8 +31,8 @@ You should see a window pop up that looks like this:
 .. figure:: ../source/media/terminal.png
     :alt: Terminal
 
-    
-
+|
+======
 Let's run some commands!
 """"""""""""""""""""""""
 
