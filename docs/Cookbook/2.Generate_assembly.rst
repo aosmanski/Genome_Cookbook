@@ -45,8 +45,7 @@ To verify that you've completed this step correctly, run ``pwd`` followed by ``e
 
 .. code-block:: bash
 
-    pwd
-    echo $PATH_PROGRAMS
+    pwd; echo $PATH_PROGRAMS
 
 
 Now we’re ready to run our programs!
