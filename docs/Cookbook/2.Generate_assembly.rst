@@ -1,7 +1,7 @@
 Chloroplast Assembly Generation
 ===============================
 
-oatksd
+oatk
 --------------
 Oatk: an organelle genome assembly toolkit: https://github.com/c-zhou/oatk
 
