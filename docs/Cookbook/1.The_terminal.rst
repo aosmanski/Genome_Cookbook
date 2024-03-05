@@ -7,10 +7,24 @@ https://sandbox.bio/tutorials/terminal-basics
 
 A few more commands we’ll need to know: 
 
-``cd`` this is how you move between directories
+``cd`` this is short for *change directories*. This is how you move around in the terminal.
 
-``pwd`` this is how you find out your current location in the directory structure
+``pwd`` this is short for *print working directory*. This is how you find out your current location in the directory structure
 
-``cat`` this is short for *concatenate* which simply means "to link together"
+``cat`` this is short for *concatenate*, which simply means "to link together"
+
+
+Let's get started using your computer's terminal
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Open your terminal window from the taskbar (or by going to Applications > Utilities > Terminal)
+
+.. figure:: ../source/media/terminal_icon.png
+    :alt: Terminal icon
+
+You should see a window pop up that looks like this:
+
+.. figure:: ../source/media/terminal.png
+    :alt: Terminal
 
 
