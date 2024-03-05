@@ -1,11 +1,11 @@
 Chloroplast Assembly Generation
 ===============================
 
-Oatk: an organelle genome assembly toolkit
-------------------------------------------
+
 .. figure:: ../source/media/oatk_flowchart.png
     :alt: Oatk Flowchart
-
+Oatk: an organelle genome assembly toolkit
+------------------------------------------
     Image source: https://github.com/c-zhou/oatk
 
 
