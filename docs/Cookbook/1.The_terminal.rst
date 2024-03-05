@@ -32,7 +32,7 @@ You should see a window pop up that looks like this:
     :alt: Terminal
 
 |
-======
+
 Let's run some commands!
 """"""""""""""""""""""""
 
