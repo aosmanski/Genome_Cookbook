@@ -24,7 +24,6 @@ Open your terminal window from the taskbar (or by going to Applications > Utilit
 
 |
 |
-|
 
 You should see a window pop up that looks like this:
 """"""""""""""""""""""""""""""
@@ -34,10 +33,30 @@ You should see a window pop up that looks like this:
 
     
 
-Click inside the terminal and enter the following commands:
+Let's run some commands!
+""""""""""""""""""""""""
+
+Go into the "Genome_Cookbook" directory and see what files and directories are saved inside:
 
 .. code-block:: bash
 
     cd Desktop/Genome_Cookbook
 
-    ls
+Use the ``pwd`` command to view the full path to the Genome_Cookbook
+|
+Now use the ``ls`` command to view all the files within this directory. 
+|
+What do you see? 
+|
+Let's try the ``cat`` function. The code below takes all of the contents in **file1.txt** and attaches all of the contents of **file2.txt** to the end of it. The ``>`` symbol is used to *save* the output from the ``cat`` function to a new file called **files_combined.txt**
+
+.. code-block:: bash
+
+    cat file1.txt file2.txt > files_combined.txt
+|
+What command did we learn that can be used to view the output of files_combined.txt?
+*Hint, the results will be at the top of the file*
+
+
+
+
