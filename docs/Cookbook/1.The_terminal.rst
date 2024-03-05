@@ -18,16 +18,16 @@ Let's get started using your computer's terminal
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Open your terminal window from the taskbar (or by going to Applications > Utilities > Terminal)
-
+"""""""""""""""""""""""""""""
 .. figure:: ../source/media/terminal_icon.png
     :alt: Terminal icon
 
 |
 |
 |
-|
 
 You should see a window pop up that looks like this:
+""""""""""""""""""""""""""""""
 
 .. figure:: ../source/media/terminal.png
     :alt: Terminal
