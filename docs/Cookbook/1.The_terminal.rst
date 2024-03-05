@@ -43,11 +43,17 @@ Go into the "Genome_Cookbook" directory and see what files and directories are s
     cd Desktop/Genome_Cookbook
 
 Use the ``pwd`` command to view the full path to the Genome_Cookbook
+
 |
+
 Now use the ``ls`` command to view all the files within this directory. 
+
 |
+
 What do you see? 
+
 |
+
 Let's try the ``cat`` function. The code below takes all of the contents in **file1.txt** and attaches all of the contents of **file2.txt** to the end of it. The ``>`` symbol is used to *save* the output from the ``cat`` function to a new file called **files_combined.txt**
 
 .. code-block:: bash
