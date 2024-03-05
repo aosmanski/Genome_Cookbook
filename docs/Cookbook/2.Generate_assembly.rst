@@ -37,7 +37,7 @@ Now, copy the path and paste it into the line of code below:
 
     export PATH_PROGRAMS=/Users/sylvesterthecat/Desktop/Genome_Cookbook/programs
 
-Copy this entire line into your terminal window and hit enter
+Once you have typed in your computer's name, copy this entire line into your terminal window and hit enter
 
 We just created a shortcut for ourselves so we don't have to type the entire path every single time we want to run a program. Now all we have to do is call ``PATH_PROGRAMS``
 
