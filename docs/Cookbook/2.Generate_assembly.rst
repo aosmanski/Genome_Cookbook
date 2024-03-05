@@ -48,7 +48,7 @@ To verify that you've completed this step correctly, run ``pwd`` followed by ``e
     echo $PATH_PROGRAMS
 
 
-Now we’re ready to run our programs
+Now we’re ready to run our programs!
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Assemble the chloroplast genome using Oatk
