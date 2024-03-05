@@ -10,9 +10,9 @@ Oatk: an organelle genome assembly toolkit
 
 
 Now that we have some terminal basics
-"""""""""""
+"""""""""""""""""""""""
 we can begin assembling our chloroplast!
-"""""""""""
+"""""""""""""""""""""""
 
 First, let’s export the path where the programs we need to use are installed:
 
