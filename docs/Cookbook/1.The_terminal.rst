@@ -1,4 +1,11 @@
-Learn a few commands: ls, cd, pwd, cat, rm
+Before we can dive into our chloroplast assembly, we first need to pick up a few terminal basics
+=========================================
 
-cd into our working directory Desktop > Genome_Cookbook
+Let's learn a few commands to help us navigate around inside the terminal:
+This website has a brief tutorial covering useful commabnds like: ``ls`` ``head`` ``tail`` and ``grep``:
+https://sandbox.bio/tutorials/terminal-basics
 
+A couple more commands we’ll need to know are: 
+``cd`` this is how you move between directories
+``pwd`` this is how you find out your current location in the directory structure
+``cat`` this is short for *con**cat**enate* which simply means "to link together"
