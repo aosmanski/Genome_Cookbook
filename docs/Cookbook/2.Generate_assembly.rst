@@ -44,6 +44,7 @@ We just created a shortcut for ourselves so we don't have to type the entire pat
 To verify that you've completed this step correctly, run ``pwd`` followed by ``echo`` to see if the output is the same.
 
 .. code-block:: bash
+
     pwd
     echo $PATH_PROGRAMS
 
