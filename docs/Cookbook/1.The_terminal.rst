@@ -23,12 +23,14 @@ Open your terminal window from the taskbar (or by going to Applications > Utilit
     :alt: Terminal icon
 
 
+    
 
 You should see a window pop up that looks like this:
 
 .. figure:: ../source/media/terminal.png
     :alt: Terminal
 
+    
 
 Click inside the terminal and enter the following commands:
 
