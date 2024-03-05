@@ -22,13 +22,10 @@ Open your terminal window from the taskbar (or by going to Applications > Utilit
 .. figure:: ../source/media/terminal_icon.png
     :alt: Terminal icon
 
-
-
-
-    
-
-
-
+|
+|
+|
+|
 
 You should see a window pop up that looks like this:
 
