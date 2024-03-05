@@ -41,7 +41,7 @@ Once you have typed in your computer's name, copy this entire line into your ter
 
 We just created a shortcut for ourselves so we don't have to type the entire path every single time we want to run a program. Now all we have to do is call ``PATH_PROGRAMS``
 
-To verify that you've completed this step correctly, run ``pwd`` followed by ``echo`` to see if the output is the same.
+To verify that you've completed this step correctly, run ``pwd`` followed by ``echo`` to see if the output is identical.
 
 .. code-block:: bash
 
