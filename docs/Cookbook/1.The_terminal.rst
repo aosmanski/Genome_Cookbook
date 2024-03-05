@@ -30,3 +30,10 @@ You should see a window pop up that looks like this:
     :alt: Terminal
 
 
+Click inside the terminal and enter the command:
+
+.. code-block:: bash
+
+    cd Desktop/Genome_Cookbook
+
+    ls
