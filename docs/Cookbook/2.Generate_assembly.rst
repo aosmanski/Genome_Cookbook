@@ -15,4 +15,4 @@ For each computer, they will need to get the paths to the programs (unless it’
 
 .. code-block:: bash
 
-/Users/<computer_name>/Desktop/test_chloro/oatk-1.0/oatk -k 1001 -c 150 -t 1 -–nhmmscan /Users/<computer_name>/Desktop/test_chloro/hmmer-3.4/src/nhmmscan  -p /Users/<computer_name>/Desktop/test_chloro/oatk-1.0/embryophyta_pltd.fam -o mulb_test m64233e_221024_024514_1x.ccs.fastq.gz
+    /Users/<computer_name>/Desktop/test_chloro/oatk-1.0/oatk -k 1001 -c 150 -t 1 -–nhmmscan /Users/<computer_name>/Desktop/test_chloro/hmmer-3.4/src/nhmmscan  -p /Users/<computer_name>/Desktop/test_chloro/oatk-1.0/embryophyta_pltd.fam -o mulb_test m64233e_221024_024514_1x.ccs.fastq.gz
