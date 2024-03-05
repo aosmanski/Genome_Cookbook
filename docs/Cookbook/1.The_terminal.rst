@@ -41,6 +41,7 @@ Go into the "Genome_Cookbook" directory and see what files and directories are s
 .. code-block:: bash
 
     cd Desktop/Genome_Cookbook
+|
 
 Use the ``pwd`` command to view the full path to the Genome_Cookbook
 
