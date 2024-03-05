@@ -5,7 +5,7 @@ Let's learn a few commands to help us navigate around inside the terminal:
 This website has a brief tutorial covering useful commabnds like: ``ls``,``head``,``tail`` and ``grep``:
 https://sandbox.bio/tutorials/terminal-basics
 
-A couple more commands we’ll need to know are: 
+A few more commands we’ll need to know: 
 
 ``cd`` this is how you move between directories
 
