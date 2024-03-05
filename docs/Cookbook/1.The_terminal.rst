@@ -30,7 +30,7 @@ You should see a window pop up that looks like this:
     :alt: Terminal
 
 
-Click inside the terminal and enter the command:
+Click inside the terminal and enter the following commands:
 
 .. code-block:: bash
 
