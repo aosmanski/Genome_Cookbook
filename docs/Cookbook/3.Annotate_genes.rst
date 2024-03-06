@@ -41,11 +41,14 @@ Results
 ^^^^^^^^^^^^^^^^^^^^^^^^
 1. Hit the save button
 2. Download all jobs in one zip.
-3. Move from Downloads to Genome_Cookbook and double click
+
 
 .. figure:: ../source/media/chlorobox6.png
 
-cd into job-results-*
+Back in the terminal
+^^^^^^^^^^^^^^^^^^^^
+1. Move from Downloads to Genome_Cookbook and double click
+2. cd into job-results-*
 
 Questions to address:
 """"""""""""""""""""
