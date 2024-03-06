@@ -66,29 +66,29 @@ Let’s take a look at some of the output:
 
 
 You should see a line that starts with a ``>`` This is the header, basically it’s a descriptive line for the sequence in the file. Below you should see a string of As, Ts, Cs, and Gs. Those are part of your chloroplast assembly! 
-|
-|
+
+
 BLAST
 ^^^^^^^^^^
 Now, just for confirmation, let’s check that the sequence that was assembled was indeed chloroplast. To do that, we’ll use the National Center for Biotechnology Information (NCBI)’s BLAST (Basic Local Alignment Search Tool).
-|
+
 From the NCBI website:
 “BLAST finds regions of similarity between biological sequences. The program compares nucleotide or protein sequences to sequence databases and calculates the statistical significance.”
-|
+
 In other words, BLAST will take a query sequence and check for sequence similarity to sequences in its database. 
-|
+
 Navigate to this website: <https://blast.ncbi.nlm.nih.gov/Blast.cgi>
-|
+
 .. figure:: ../source/media/blast1.png
-|
+
 Tick the Nucleotide BLAST button under Web BLAST
-|
+
 Copy the DNA sequence that was output into your terminal window
-|
+
 .. figure:: ../source/media/blast2.png
-|
+
 Then hit BLAST!
-|
+
 .. figure:: ../source/media/blast3.png
 
 
