@@ -1,9 +1,7 @@
 Welcome to Genome Cookbook!
 ===================================
 
-
-[![Documentation Status](https://readthedocs.org/projects/genome-cookbook-randolf-v10/badge/?version=latest)](https://genome-cookbook-randolf-v10.readthedocs.io/en/latest/?badge=latest)
-
+https://readthedocs.org/projects/genome-cookbook-randolf-v10/?version=latest
 
 Welcome, budding bioinformatic chefs, to the flavorful world of Genome Cookbook!
 
@@ -17,11 +15,11 @@ So, grab your aprons, sharpen your minds, and let's get cooking! With code in ha
 
 
 
-Check out the :doc:`Cookbook` section for the full course module!
+Check out the Cookbook section for the full course module!
  
-For software requirements and installation instructions, enter the :ref:`Cookware`.
+For software requirements and installation instructions, tour our non-stick Cookware.
  
-Follow the aroma trail of our various datasets in the :doc:`Spice Rack`.
+Follow the aroma trail of our various datasets in the Spice Rack.
 
 
 
