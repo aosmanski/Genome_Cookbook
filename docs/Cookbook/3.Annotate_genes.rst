@@ -32,12 +32,16 @@ Untick Chloe
 
 Actions
 ^^^^^^^^^^^^^^^^^^^^^^^^
-Tick “I have read and accept the Disclaimer” then “Submit”
+1. Tick “I have read and accept the Disclaimer”
+2. Click “Submit”
 
 .. figure:: ../source/media/chlorobox5.png
 
 Results
-Hit the save button, download all jobs in one zip. Move from Downloads to Genome_Cookbook and double click
+^^^^^^^^^^^^^^^^^^^^^^^^
+1. Hit the save button
+2. Download all jobs in one zip.
+3. Move from Downloads to Genome_Cookbook and double click
 
 .. figure:: ../source/media/chlorobox6.png
 
