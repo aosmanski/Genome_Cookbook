@@ -1,7 +1,6 @@
 Welcome to Genome Cookbook!
 ===================================
 
-https://readthedocs.org/projects/genome-cookbook-randolf-v10/?version=latest
 
 Welcome, budding bioinformatic chefs, to the flavorful world of Genome Cookbook!
 
