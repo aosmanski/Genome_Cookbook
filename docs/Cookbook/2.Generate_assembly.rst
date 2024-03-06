@@ -79,17 +79,17 @@ In other words, BLAST will take a query sequence and check for sequence similari
 |
 Navigate to this website: <https://blast.ncbi.nlm.nih.gov/Blast.cgi>
 |
-
+.. figure:: ../source/media/blast1.png
 |
 Tick the Nucleotide BLAST button under Web BLAST
 |
 Copy the DNA sequence that was output into your terminal window
 |
-
+.. figure:: ../source/media/blast2.png
 |
 Then hit BLAST!
 |
-
+.. figure:: ../source/media/blast3.png
 
 
 
