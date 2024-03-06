@@ -78,7 +78,7 @@ From the NCBI website:
 
 In other words, BLAST will take a query sequence and check for sequence similarity to sequences in its database. 
 
-Navigate to this website: <https://blast.ncbi.nlm.nih.gov/Blast.cgi>
+Navigate to this website: https://blast.ncbi.nlm.nih.gov/Blast.cgi
 
 .. figure:: ../source/media/blast1.png
 
