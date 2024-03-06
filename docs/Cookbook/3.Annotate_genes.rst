@@ -25,11 +25,13 @@ BLAT Reference Sequences
 .. figure:: ../source/media/chlorobox3.png
 
 3rd Party Stand-Alone Annotators
+^^^^^^^^^^^^^^^^^^^^^^^^
 Untick Chloe
 
 .. figure:: ../source/media/chlorobox4.png
 
 Actions
+^^^^^^^^^^^^^^^^^^^^^^^^
 Tick “I have read and accept the Disclaimer” then “Submit”
 
 .. figure:: ../source/media/chlorobox5.png
