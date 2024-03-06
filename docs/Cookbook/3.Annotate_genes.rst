@@ -1,1 +1,42 @@
-Import fasta into this website https://chlorobox.mpimp-golm.mpg.de/geseq.html
+Annotate the Chloroplast
+=========================
+Use this website to annotate and examine the red mulberry chloroplast genome
+https://chlorobox.mpimp-golm.mpg.de/geseq.html
+
+Fasta file(s) to annotate
+Import your chloroplast fasta
+
+
+Annotation
+Make sure CDS, tRNA, and rRNA are ticked
+
+
+
+BLAT Reference Sequences > Add NCBI RefSeq(s)
+Search “Morus”
+Add all 5 species 
+
+
+
+3rd Party Stand-Alone Annotators
+Untick Chloe
+
+
+
+Actions
+Tick “I have read and accept the Disclaimer” then “Submit”
+
+
+Results
+Hit the save button, download all jobs in one zip. Move from Downloads to Genome_Cookbook and double click
+
+
+cd into job-results-*
+
+Questions to address:
+How big is the red mulberry genome?
+How many genes does the red mulberry genome contain?
+
+cat *_GFF3.gff3 | grep -c "gene\t" -
+
+
