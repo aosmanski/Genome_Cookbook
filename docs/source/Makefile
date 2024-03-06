@@ -1,5 +1,7 @@
 # Minimal makefile for Sphinx documentation
 #
+#Link to the RTDs:
+#https://readthedocs.org/projects/genome-cookbook-randolf-v10/?version=latest
 
 # You can set these variables from the command line, and also
 # from the environment for the first two.
