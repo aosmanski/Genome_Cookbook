@@ -3,7 +3,8 @@ Annotate the Chloroplast
 Use this website to annotate and examine the red mulberry chloroplast genome:
 https://chlorobox.mpimp-golm.mpg.de/geseq.html
 
-Fasta file(s) to annotate
+Fasta file(s) to annotate:
+
 Import your chloroplast fasta
 
 .. figure:: ../source/media/chlorobox1.png
