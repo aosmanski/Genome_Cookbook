@@ -73,7 +73,7 @@ BLAST
 Now, just for confirmation, let’s check that the sequence that was assembled was indeed chloroplast. To do that, we’ll use the National Center for Biotechnology Information (NCBI)’s BLAST (Basic Local Alignment Search Tool).
 |
 From the NCBI website:
-*“BLAST finds regions of similarity between biological sequences. The program compares nucleotide or protein sequences to sequence databases and calculates the statistical significance.”*
+“BLAST finds regions of similarity between biological sequences. The program compares nucleotide or protein sequences to sequence databases and calculates the statistical significance.”
 |
 In other words, BLAST will take a query sequence and check for sequence similarity to sequences in its database. 
 |
