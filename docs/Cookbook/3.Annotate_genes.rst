@@ -16,9 +16,11 @@ Make sure CDS, tRNA, and rRNA are ticked
 
 .. figure:: ../source/media/chlorobox2.png
 
-BLAT Reference Sequences > Add NCBI RefSeq(s)
-Search “Morus”
-Add all 5 species 
+BLAT Reference Sequences
+^^^^^^^^^^^^^^^^^^^^^^^^
+1. Add NCBI RefSeq(s)
+2. Search “Morus”
+3. Add all 5 species 
 
 .. figure:: ../source/media/chlorobox3.png
 
