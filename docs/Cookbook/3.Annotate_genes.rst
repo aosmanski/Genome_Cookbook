@@ -47,14 +47,19 @@ Results
 
 Back in the terminal
 ^^^^^^^^^^^^^^^^^^^^
-1. Move from Downloads to Genome_Cookbook and double click
-2. cd into job-results-*
+1. Move the zipped file from **Downloads** to **Genome_Cookbook**
+
+.. code-block:: bash
+    mv /Users/<character_name>/Downloads/job-results-* /Users/<character_name>/Desktop/Genome_Cookbook/
+    cd /Users/<character_name>/Desktop/Genome_Cookbook/
+
+2. Run the command: ``unzip job-results-*``
+3. Then navigate into the unzipped directory: ``cd job-results-*``
 
 Questions to address:
 """"""""""""""""""""
 How big is the red mulberry genome?
 How many genes does the red mulberry genome contain?
 
-cat *_GFF3.gff3 | grep -c "gene\t" -
-
-
+.. code-block:: bash
+    cat *_GFF3.gff3 | grep -c "gene\t" -
