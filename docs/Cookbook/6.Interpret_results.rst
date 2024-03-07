@@ -1,1 +1,9 @@
-File > Open > RAxML_bestTree.mulberry_chloroplast_combined
+Interpret the results in FigTree
+===============================
+
+File > Open > Navigate to Desktop > Genome_Cookbook 
+
+Open the file named: RAxML_bestTree.mulberry_chloroplast
+
+Questions to address:
+Are there any white mulberries collected in Huntsville, AL?
