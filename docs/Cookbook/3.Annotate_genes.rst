@@ -47,18 +47,30 @@ Results
 
 Back in the terminal
 ^^^^^^^^^^^^^^^^^^^^
-1. Move the zipped file from **Downloads** to **Genome_Cookbook**
+1. Move the zipped file from ``Downloads`` to ``Genome_Cookbook``
 
 .. code-block:: bash
 
     mv /Users/<character_name>/Downloads/job-results-* /Users/<character_name>/Desktop/Genome_Cookbook/
-|
+
+2. Navigate into your ``Genome_Cookbook`` directory. 
+
 .. code-block:: bash
 
     cd /Users/<character_name>/Desktop/Genome_Cookbook/
 
-2. Run the command: ``unzip job-results-*``
-3. Then navigate into the unzipped directory: ``cd job-results-*``
+3. Run the following command to unpackage the zip file:
+
+.. code-block:: bash
+
+    unzip job-results-*
+
+4. Then navigate into the unzipped directory:
+
+.. code-block:: bash
+
+     cd job-results-*
+
 
 Questions to address:
 """"""""""""""""""""
