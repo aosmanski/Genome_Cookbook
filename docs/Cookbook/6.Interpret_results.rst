@@ -1,7 +1,9 @@
 Interpret the results in FigTree
 ===============================
 
-File > Open > Navigate to Desktop > Genome_Cookbook 
+File > Open >
+
+Navigate to Desktop > Genome_Cookbook 
 
 Open the file named: RAxML_bestTree.mulberry_chloroplast
 
