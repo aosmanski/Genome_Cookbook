@@ -2,6 +2,7 @@ Assembly Allignment using MAFFT
 ==============================
 
 MAFFT (Multiple Alignment using Fast Fourier Transform)
+
 https://mafft.cbrc.jp/alignment/software/
 
 
