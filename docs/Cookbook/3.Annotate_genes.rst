@@ -52,6 +52,9 @@ Back in the terminal
 .. code-block:: bash
 
     mv /Users/<character_name>/Downloads/job-results-* /Users/<character_name>/Desktop/Genome_Cookbook/
+|
+.. code-block:: bash
+
     cd /Users/<character_name>/Desktop/Genome_Cookbook/
 
 2. Run the command: ``unzip job-results-*``
