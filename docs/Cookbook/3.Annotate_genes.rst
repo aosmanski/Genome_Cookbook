@@ -50,6 +50,7 @@ Back in the terminal
 1. Move the zipped file from **Downloads** to **Genome_Cookbook**
 
 .. code-block:: bash
+
     mv /Users/<character_name>/Downloads/job-results-* /Users/<character_name>/Desktop/Genome_Cookbook/
     cd /Users/<character_name>/Desktop/Genome_Cookbook/
 
@@ -62,4 +63,5 @@ How big is the red mulberry genome?
 How many genes does the red mulberry genome contain?
 
 .. code-block:: bash
+
     cat *_GFF3.gff3 | grep -c "gene\t" -
