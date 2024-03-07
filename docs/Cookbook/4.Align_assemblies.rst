@@ -18,11 +18,14 @@ Aligned sequences:
 ^^^^^^^^^^^^^^^^^^^^
 .. figure:: ../source/media/aligned.png
 
-Align the chloroplast sequences
+Concatenate the chloroplast sequences
 """"""""""""""""""""""""""""""
 .. code-block:: bash
 
     cat mulberry_chloroplast_combined.unwrapped.fa red_mulberry_chloroplast.pltd.ctg.fasta > mulberry_chloroplast_final.fa
+
+Align the chloroplast sequences
+""""""""""""""""""""""""""""""
 
 .. code-block:: bash
 
