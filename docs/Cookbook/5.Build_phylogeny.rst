@@ -1,1 +1,13 @@
-./raxmlHPC-PTHREADS-SSE3 -f a -x $RANDOM -N 10 -T 1 -p $RANDOM -s mulberry_chloroplast_combined.fa.aln.reduced -n mulberry_chloroplast_combined -m GTRGAMMA
+Build a phylogeny
+==================
+
+Phylogenetic trees are like a map that helps us understand how different plants are related to each other and how they evolved over time. We can build these phylogenetic trees using the DNA sequences found in chloroplasts.
+
+By comparing the chloroplast genomes of different plants, we can look for similarities and differences in their DNA sequences. Plants with more similar chloroplast genomes are more closely related and will be placed closer together on the phylogenetic tree, like siblings or cousins on a family tree. Plants with very different chloroplast genomes are more distantly related and will be placed further apart on the tree, like distant cousins or aunts and uncles.
+
+This phylogenetic tree shows us how different plant species have evolved from common ancestors over millions of years. It's like a map that traces the evolutionary paths of plants, showing which species are more closely related and which ones branched off earlier in their evolutionary history.
+
+
+.. code-block:: bash
+    
+    $PATH_PROGRAMS/standard-RAxML-8.2.13/raxmlHPC-PTHREADS-SSE3 -f a -x $RANDOM -N 10 -T 1 -p $RANDOM -s mulberry_chloroplast_final.aln -n mulberry_chloroplast -m GTRGAMMA
