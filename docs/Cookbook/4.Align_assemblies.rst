@@ -4,6 +4,9 @@ Assembly Allignment using MAFFT
 MAFFT: Multiple alignment program for amino acid or nucleotide sequences
 https://mafft.cbrc.jp/alignment/software/
 
+DNA sequence alignment is a crucial process in bioinformatics that allows researchers to compare and analyze genetic sequences from different organisms or different regions within the same organism. When aligning chloroplast assemblies, which are the DNA sequences of chloroplasts (the organelles responsible for photosynthesis in plants and algae), the program MAFFT (Multiple Alignment using Fast Fourier Transform) can be used. MAFFT is a popular multiple sequence alignment tool that efficiently aligns large numbers of sequences by employing a progressive alignment approach. By aligning chloroplast assemblies, researchers can identify conserved regions, study evolutionary relationships, and uncover variations that may be linked to functional differences or adaptations in different plant species.
+
+
 .. code-block:: bash
 
     mafft --auto --thread 1 mulberry_chloroplast_combined.fa > mulberry_chloroplast_combined.temp.aln
