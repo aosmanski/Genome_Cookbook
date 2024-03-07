@@ -62,6 +62,7 @@ Assemble the chloroplast genome using Oatk
 Let’s take a look at some of the output:
 
 .. code-block:: bash
+
     head red_mulberry_chloroplast.pltd.ctg.fasta
 
 
