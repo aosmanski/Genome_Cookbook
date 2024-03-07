@@ -10,6 +10,13 @@ Sequence alignment
 ^^^^^^^^^^^^^^^^^^^
 DNA sequence alignment is a crucial process in bioinformatics that allows researchers to compare and analyze genetic sequences from different organisms or different regions within the same organism. We'll use MAFFT to align our chloroplast assemblies. MAFFT is a popular multiple sequence alignment tool that efficiently aligns large numbers of sequences by employing a progressive alignment approach. Aligning the chloroplast assemblies is a necessary step to creating the phylogenetic tree in our next section.
 
+Unaligned sequences:
+^^^^^^^^^^^^^^^^^^^
+.. figure:: ../source/media/unaligned.png
+
+Aligned sequences:
+^^^^^^^^^^^^^^^^^^^^
+.. figure:: ../source/media/aligned.png
 
 Align the chloroplast sequences
 """"""""""""""""""""""""""""""
