@@ -22,6 +22,10 @@ Align the chloroplast sequences
 """"""""""""""""""""""""""""""
 .. code-block:: bash
 
+    cat mulberry_chloroplast_combined.unwrapped.fa red_mulberry_chloroplast.pltd.ctg.fasta > mulberry_chloroplast_final.fa
+
+.. code-block:: bash
+
     $PATH_PROGRAMS/mafft-mac/mafftdir/bin/mafft --auto --thread 1 mulberry_chloroplast_final.fa > mulberry_chloroplast_final.temp.aln
 
 Clean up the fasta file by inserting a new-line-character between the sequences. 
