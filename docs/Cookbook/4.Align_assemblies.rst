@@ -16,7 +16,7 @@ Align the chloroplast sequences
 
     $PATH_PROGRAMS/mafft-mac/mafftdir/bin/mafft --auto --thread 1 mulberry_chloroplast_final.fa > mulberry_chloroplast_final.temp.aln
 
-Clean up the file by inserting a new-line-character between the sequences in our fasta file. 
+Clean up the fasta file by inserting a new-line-character between the sequences. 
 """"""""""""""""""
 .. code-block:: bash
     
