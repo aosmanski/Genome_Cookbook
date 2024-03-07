@@ -11,11 +11,13 @@ DNA sequence alignment is a crucial process in bioinformatics that allows resear
 
 
 Align the chloroplast sequences
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+""""""""""""""""""""""""""""""
 .. code-block:: bash
 
     $PATH_PROGRAMS/mafft-mac/mafftdir/bin/mafft --auto --thread 1 mulberry_chloroplast_final.fa > mulberry_chloroplast_final.temp.aln
 
+Clean up the file by inserting a new-line-character between the sequences in our fasta file. 
+""""""""""""""""""
 .. code-block:: bash
     
     awk '/^>/{print (NR==1)?$0:"\n"$0;next}{printf "%s", $0}END{print ""}' mulberry_chloroplast_final.temp.aln > mulberry_chloroplast_final.aln
