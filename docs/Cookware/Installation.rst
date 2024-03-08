@@ -8,6 +8,7 @@ https://apps.apple.com/us/app/xcode/id497799835?mt=12
 OATK
 -------------------------------
 https://github.com/c-zhou/oatk
+
 |
 |
 
@@ -15,18 +16,21 @@ HMMER
 --------------------------------
 http://hmmer.org/
 Installation instructions: http://hmmer.org/documentation.html
+
 | 
 | 
 
 MAFFT
 ---------------------------------
 https://mafft.cbrc.jp/alignment/software/
+
 | 
 | 
 
 RAxML
 ---------------------------------
 https://github.com/stamatak/standard-RAxML/
+
 | 
 | 
 
