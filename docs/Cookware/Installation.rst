@@ -1,29 +1,32 @@
-Software requirements and installation information.
+Software requirements and Download locaitons
 ===============================
+Installation instructions are provided at each link.
+If running on mac, you will need xcode installed first.
+https://apps.apple.com/us/app/xcode/id497799835?mt=12
 
-[OATK](https://github.com/c-zhou/oatk) 
+
+OATK
 -------------------------------
-Download, unpack, make
+https://github.com/c-zhou/oatk
+|
 
-
-[HMMER](http://hmmer.org/)
+HMMER
 --------------------------------
-Follow these instructions: http://hmmer.org/documentation.html
-
-
+http://hmmer.org/
+Installation instructions: http://hmmer.org/documentation.html
+|
 
 MAFFT
-https://mafft.cbrc.jp/alignment/software/macportable.html Download mafft-7.520-mac.zip 
-
-
-
+---------------------------------
+https://mafft.cbrc.jp/alignment/software/
+|
 
 RAxML
-Source code from here https://github.com/stamatak/standard-RAxML/releases/tag/v8.2.13 cd into dir and run
-
-make -f Makefile.SSE3.PTHREADS.gcc
-rm *.o
+---------------------------------
+https://github.com/stamatak/standard-RAxML/
+|
 
 FigTree
-Download from here: https://github.com/rambaut/figtree/releases . Requires Java
+https://github.com/rambaut/figtree/releases
+Figtree requires java: https://www.java.com/en/download/manual.jsp
 
