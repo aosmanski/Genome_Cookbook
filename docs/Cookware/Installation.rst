@@ -1,4 +1,4 @@
-Software requirements and Download locaitons
+Software requirements and download locaitons
 ===============================
 Installation instructions are provided at each link.
 If running on mac, you will need xcode installed first.
