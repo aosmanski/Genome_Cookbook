@@ -34,5 +34,6 @@ https://github.com/stamatak/standard-RAxML/
 FigTree
 ---------------------------------
 https://github.com/rambaut/figtree/releases
+
 Figtree requires java: https://www.java.com/en/download/manual.jsp
 
